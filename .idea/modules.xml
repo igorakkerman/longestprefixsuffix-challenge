@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codility-java-template.iml" filepath="$PROJECT_DIR$/.idea/modules/codility-java-template.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codility-java-template.main.iml" filepath="$PROJECT_DIR$/.idea/modules/codility-java-template.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codility-java-template.test.iml" filepath="$PROJECT_DIR$/.idea/modules/codility-java-template.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toptal-java-2.iml" filepath="$PROJECT_DIR$/.idea/modules/toptal-java-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toptal-java-2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/toptal-java-2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toptal-java-2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/toptal-java-2.test.iml" />
     </modules>
   </component>
 </project>
