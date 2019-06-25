@@ -5,6 +5,8 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="longestprefixsuffix-challenge.main" target="12" />
+      <module name="longestprefixsuffix-challenge.test" target="12" />
       <module name="toptal-java-2.main" target="12" />
       <module name="toptal-java-2.test" target="12" />
     </bytecodeTargetLevel>

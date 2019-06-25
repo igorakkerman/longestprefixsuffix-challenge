@@ -6,5 +6,6 @@ out
 build
 
 # IntelliJ IDEA
-**/.idea/workspace.xml
-**/.idea/libraries
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/misc.xml
