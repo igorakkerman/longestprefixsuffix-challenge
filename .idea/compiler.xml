@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="codility-java-template.main" target="12" />
+      <module name="codility-java-template.test" target="12" />
+      <module name="template-java.main" target="12" />
+      <module name="template-java.test" target="12" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
